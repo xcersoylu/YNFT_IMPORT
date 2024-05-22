@@ -1,0 +1,7 @@
+CLASS ycl_nft_imp_util_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    CONSTANTS mc_msgid TYPE sy-msgid VALUE 'YNFT_IMP_MC'.
