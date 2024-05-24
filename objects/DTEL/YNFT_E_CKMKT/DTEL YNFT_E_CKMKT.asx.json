@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_CKMKT",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Clearence Quantity",
+    "REPTEXT":"Clearence Quantity",
+    "SCRTEXT_S":"Clea.Quan.",
+    "SCRTEXT_M":"Clearence Quantity",
+    "SCRTEXT_L":"Clearence Quantity"
+   },
+   {
+    "ROLLNAME":"YNFT_E_CKMKT",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

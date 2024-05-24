@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_CUSDN",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Customs declaration number",
+    "REPTEXT":"Customs declaration number",
+    "SCRTEXT_S":"Cust.dec.n",
+    "SCRTEXT_M":"Customs declaration",
+    "SCRTEXT_L":"Customs declaration number"
+   },
+   {
+    "ROLLNAME":"YNFT_E_CUSDN",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

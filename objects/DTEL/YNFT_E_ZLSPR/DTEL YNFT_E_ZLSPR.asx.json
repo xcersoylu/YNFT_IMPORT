@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_ZLSPR",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Payment Block",
+    "REPTEXT":"Payment Block",
+    "SCRTEXT_S":"Payment Bl",
+    "SCRTEXT_M":"Payment Block",
+    "SCRTEXT_L":"Payment Block"
+   },
+   {
+    "ROLLNAME":"YNFT_E_ZLSPR",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

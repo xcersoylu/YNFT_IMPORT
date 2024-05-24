@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_CALTY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Calculation Type",
+    "REPTEXT":"Calculation Type",
+    "SCRTEXT_S":"Cal.Type",
+    "SCRTEXT_M":"Calculation Type",
+    "SCRTEXT_L":"Calculation Type"
+   },
+   {
+    "ROLLNAME":"YNFT_E_CALTY",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

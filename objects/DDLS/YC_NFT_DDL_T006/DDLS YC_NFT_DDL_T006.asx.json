@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_T006",
     "STRUCOBJN":"YC_NFT_DDL_T006",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Cost Document Types"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_T006",
+    "STRUCOBJN":"YC_NFT_DDL_T006",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Masraf Belge Türleri"

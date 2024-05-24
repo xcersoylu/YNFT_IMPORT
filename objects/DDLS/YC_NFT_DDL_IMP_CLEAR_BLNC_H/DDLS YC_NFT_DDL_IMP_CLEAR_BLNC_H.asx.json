@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_IMP_CLEAR_BLNC_H",
     "STRUCOBJN":"YC_NFT_DDL_IMP_CLEAR_BLNC_H",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Clear Balance Header"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_IMP_CLEAR_BLNC_H",
+    "STRUCOBJN":"YC_NFT_DDL_IMP_CLEAR_BLNC_H",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Dosya Kapama Başlık"

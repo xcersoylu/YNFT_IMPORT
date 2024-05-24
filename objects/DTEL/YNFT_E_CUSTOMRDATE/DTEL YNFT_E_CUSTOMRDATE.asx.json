@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_CUSTOMRDATE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Customs Arrival Date",
+    "REPTEXT":"Customs Arrival Date",
+    "SCRTEXT_S":"Cus.Arr.D.",
+    "SCRTEXT_M":"Customs Arrival Date",
+    "SCRTEXT_L":"Customs Arrival Date"
+   },
+   {
+    "ROLLNAME":"YNFT_E_CUSTOMRDATE",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_BOLNR",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Bill of Lading",
+    "REPTEXT":"Bill of Lading",
+    "SCRTEXT_S":"BillofLad.",
+    "SCRTEXT_M":"Bill of Lading",
+    "SCRTEXT_L":"Bill of Lading"
+   },
+   {
+    "ROLLNAME":"YNFT_E_BOLNR",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

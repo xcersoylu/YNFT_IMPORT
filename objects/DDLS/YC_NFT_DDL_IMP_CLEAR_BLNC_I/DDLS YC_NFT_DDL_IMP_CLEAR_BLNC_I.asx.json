@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_IMP_CLEAR_BLNC_I",
     "STRUCOBJN":"YC_NFT_DDL_IMP_CLEAR_BLNC_I",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Shipment Update Item"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_IMP_CLEAR_BLNC_I",
+    "STRUCOBJN":"YC_NFT_DDL_IMP_CLEAR_BLNC_I",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Yükleme Güncelleme Kalem"

@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YVH_NFT_TAXCODE",
     "STRUCOBJN":"YVH_NFT_TAXCODE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Tax Code Search Help"
+   },
+   {
+    "DDLNAME":"YVH_NFT_TAXCODE",
+    "STRUCOBJN":"YVH_NFT_TAXCODE",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Vergi Kodu Arama Yardımı"

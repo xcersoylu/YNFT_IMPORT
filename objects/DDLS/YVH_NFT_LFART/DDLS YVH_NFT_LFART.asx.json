@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YVH_NFT_LFART",
     "STRUCOBJN":"YVH_NFT_LFART",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Delivery Documet Type Search Help"
+   },
+   {
+    "DDLNAME":"YVH_NFT_LFART",
+    "STRUCOBJN":"YVH_NFT_LFART",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Teslimat Belge Türü Arama Yardımı"

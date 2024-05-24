@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_VBELN",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Doc.No",
+    "REPTEXT":"Document No",
+    "SCRTEXT_S":"Document N",
+    "SCRTEXT_M":"Document No",
+    "SCRTEXT_L":"Document No"
+   },
+   {
+    "ROLLNAME":"YNFT_E_VBELN",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YVH_NFT_CSRCE",
     "STRUCOBJN":"YVH_NFT_CSRCE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Cost Source Search Help"
+   },
+   {
+    "DDLNAME":"YVH_NFT_CSRCE",
+    "STRUCOBJN":"YVH_NFT_CSRCE",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Masraf Kaynağı Arama Yardımı"

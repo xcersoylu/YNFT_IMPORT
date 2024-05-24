@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_GROSS_NET",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Net - Gross",
+    "REPTEXT":"Net - Gross",
+    "SCRTEXT_S":"Net - Gros",
+    "SCRTEXT_M":"Net - Gross",
+    "SCRTEXT_L":"Net - Gross"
+   },
+   {
+    "ROLLNAME":"YNFT_E_GROSS_NET",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

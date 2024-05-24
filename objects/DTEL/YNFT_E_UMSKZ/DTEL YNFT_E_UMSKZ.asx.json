@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_UMSKZ",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Special G/L Indicator",
+    "REPTEXT":"Special G/L Indicator",
+    "SCRTEXT_S":"G/L Ind.",
+    "SCRTEXT_M":"Special G/L Indicato",
+    "SCRTEXT_L":"Special G/L Indicator"
+   },
+   {
+    "ROLLNAME":"YNFT_E_UMSKZ",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

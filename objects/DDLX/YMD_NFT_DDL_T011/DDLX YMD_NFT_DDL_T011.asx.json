@@ -330,6 +330,34 @@
   [
    {
     "DDLXNAME":"YMD_NFT_DDL_T011",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Clear Import Balance Parameters"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T011",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Clear Import Balance Parameters"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T011",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Clear Import Balance Parameters"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T011",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"BUKRS",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Clear Import Balance Parameters"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T011",
     "DDLANGUAGE":"T",
     "ELEMENT":"",
     "NAME":"UI.HEADERINFO.TITLE.LABEL",

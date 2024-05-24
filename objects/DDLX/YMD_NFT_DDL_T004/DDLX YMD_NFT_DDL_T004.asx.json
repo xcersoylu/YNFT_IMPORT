@@ -7,9 +7,9 @@
     "DDLXNAME":"YMD_NFT_DDL_T004",
     "VERSION":"A",
     "CHANGED_BY":"SAP_CUSTOMER",
-    "CHANGED_ON":"2024-05-21",
-    "CHANGED_AT":"11:29:30",
-    "UUID":"370E609375501EEF85ECAC68AA684067",
+    "CHANGED_ON":"2024-05-23",
+    "CHANGED_AT":"10:58:36",
+    "UUID":"370E609375501EEF869E6CE8B066606D",
     "ABAP_LANGUAGE_VERSION":"5"
    }
   ]
@@ -34,7 +34,7 @@
     "DDLXNAME":"YMD_NFT_DDL_T004",
     "VERSION":"A",
     "UUID":"",
-    "SOURCE":"@Metadata.layer: #CORE\r\n@UI:{\r\nheaderInfo:{\r\n                typeNamePlural: 'Masraf Tipi',\r\n                typeName: 'Masraf Tipi',\r\n                title:{ type: #STANDARD, label: 'Masraf Tipi', value: 'Ctype' }\r\n           }\r\n}\r\nannotate entity YC_NFT_DDL_T004 with\r\n{\r\n  @UI.facet: [ { id:              'Masraf',\r\n                  purpose:         #STANDARD,\r\n                  type:            #IDENTIFICATION_REFERENCE,\r\n                  label:           'Masraf Tipi',\r\n                  position:        10 } ,\r\n                { id:              'MasrafTanim',\r\n                  purpose:         #STANDARD,\r\n                  type:            #LINEITEM_REFERENCE,\r\n                  label:           'Masraf Tipi Tanım',\r\n                  position:        20,\r\n                  targetElement:   '_x004' }\r\n                  ]\r\n  @UI: { lineItem:       [ { position: 10, importance: #HIGH } ] ,\r\n         identification: [{ position: 10 }] }\r\n  @Search.defaultSearchElement: true\r\n  @Consumption.valueHelpDefinition: [{ entity : { name: 'YI_NFT_DDL_T004' , element: 'Ctype' } }]\r\n  Ctype;\r\n  @UI: { lineItem:       [ { position: 20, importance: #HIGH } ] ,\r\n         identification: [{ position: 20 }] }\r\n  @Consumption.valueHelpDefinition: [{ entity : { name : 'I_CONDITIONTYPE' , element: 'ConditionType' } }]\r\n  Kschl;\r\n  @UI: { lineItem:       [ { position: 30, importance: #HIGH } ] ,\r\n         identification: [{ position: 30 }] }\r\n  Pocst;\r\n\r\n}"
+    "SOURCE":"@Metadata.layer: #CORE\r\n@UI:{\r\nheaderInfo:{\r\n                typeNamePlural: 'Masraf Tipi',\r\n                typeName: 'Masraf Tipi',\r\n                title:{ type: #STANDARD, label: 'Masraf Tipi', value: 'Ctype' }\r\n           }\r\n}\r\nannotate entity YC_NFT_DDL_T004 with\r\n{\r\n  @UI.facet: [ { id:              'Masraf',\r\n                  purpose:         #STANDARD,\r\n                  type:            #IDENTIFICATION_REFERENCE,\r\n                  label:           'Masraf Tipi',\r\n                  position:        10 } ,\r\n                { id:              'MasrafTanim',\r\n                  purpose:         #STANDARD,\r\n                  type:            #LINEITEM_REFERENCE,\r\n                  label:           'Masraf Tipi Tanım',\r\n                  position:        20,\r\n                  targetElement:   '_X004' }\r\n                  ]\r\n  @UI: { lineItem:       [ { position: 10, importance: #HIGH } ] ,\r\n         identification: [{ position: 10 }] }\r\n  @Search.defaultSearchElement: true\r\n  @Consumption.valueHelpDefinition: [{ entity : { name: 'YI_NFT_DDL_T004' , element: 'Ctype' } }]\r\n  Ctype;\r\n  @UI: { lineItem:       [ { position: 20, importance: #HIGH } ] ,\r\n         identification: [{ position: 20 }] }\r\n  @Consumption.valueHelpDefinition: [{ entity : { name : 'I_CONDITIONTYPE' , element: 'ConditionType' } }]\r\n  Kschl;\r\n  @UI: { lineItem:       [ { position: 30, importance: #HIGH } ] ,\r\n         identification: [{ position: 30 }] }\r\n  Pocst;\r\n\r\n}"
    }
   ]
  },
@@ -166,7 +166,7 @@
     "ELEMENT":"CTYPE",
     "NAME":"UI.FACET$2$.TARGETELEMENT",
     "ELEMENT_TYPE":"S",
-    "VALUE":"'_x004'"
+    "VALUE":"'_X004'"
    },
    {
     "DDLXNAME":"YMD_NFT_DDL_T004",
@@ -260,6 +260,41 @@
   [
    {
     "DDLXNAME":"YMD_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Cost Type"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Cost Type"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Cost Type"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"CTYPE",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Cost Type"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"CTYPE",
+    "NAME":"UI.FACET$2$.LABEL",
+    "TEXT":"Cost Type Text"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T004",
     "DDLANGUAGE":"T",
     "ELEMENT":"",
     "NAME":"UI.HEADERINFO.TITLE.LABEL",
@@ -304,8 +339,8 @@
     "EXTENDED_ARTIFACT":"YC_NFT_DDL_T004",
     "VARIANT":"",
     "LAYER":1500,
-    "DT_UUID":"370E609375501EEF85ECAC68AA684067",
-    "RT_HASH":"E81727D5C663FCC44E4C6057F40172EC6DEAB047",
+    "DT_UUID":"370E609375501EEF869E6CE8B066606D",
+    "RT_HASH":"638E64EED6FECD462C4168493377E0875BD97605",
     "GEN_VERSION":"0"
    }
   ]

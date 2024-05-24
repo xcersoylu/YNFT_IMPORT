@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_IMP_SHIP_EDIT_H",
     "STRUCOBJN":"YC_NFT_DDL_IMP_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Shipment Update Header"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_IMP_SHIP_EDIT_H",
+    "STRUCOBJN":"YC_NFT_DDL_IMP_SHIP_EDIT_H",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Yükleme Güncelleme Başlık"

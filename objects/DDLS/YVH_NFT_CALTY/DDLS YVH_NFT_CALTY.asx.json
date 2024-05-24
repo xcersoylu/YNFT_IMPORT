@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YVH_NFT_CALTY",
     "STRUCOBJN":"YVH_NFT_CALTY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Calculation Type Search Help"
+   },
+   {
+    "DDLNAME":"YVH_NFT_CALTY",
+    "STRUCOBJN":"YVH_NFT_CALTY",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Hesaplama Tipi Value Help"

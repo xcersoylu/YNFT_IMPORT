@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_KSCHA",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Condition type",
+    "REPTEXT":"Condition type",
+    "SCRTEXT_S":"Cond.type",
+    "SCRTEXT_M":"Condition type",
+    "SCRTEXT_L":"Condition type"
+   },
+   {
+    "ROLLNAME":"YNFT_E_KSCHA",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

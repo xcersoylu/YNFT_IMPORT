@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_ZBD2T",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Number of Days 2",
+    "REPTEXT":"Number of Days 2",
+    "SCRTEXT_S":"Day no 2",
+    "SCRTEXT_M":"Number of Days 2",
+    "SCRTEXT_L":"Number of Days 2"
+   },
+   {
+    "ROLLNAME":"YNFT_E_ZBD2T",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

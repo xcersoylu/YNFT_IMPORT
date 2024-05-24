@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YI_NFT_DDL_T012",
     "STRUCOBJN":"YI_NFT_DDL_T012",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Transaction Tax Code"
+   },
+   {
+    "DDLNAME":"YI_NFT_DDL_T012",
+    "STRUCOBJN":"YI_NFT_DDL_T012",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"İşlem Vergi Kodları"

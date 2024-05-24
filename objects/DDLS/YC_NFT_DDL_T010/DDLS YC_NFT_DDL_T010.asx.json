@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_T010",
     "STRUCOBJN":"YC_NFT_DDL_T010",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Import Clearing Account"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_T010",
+    "STRUCOBJN":"YC_NFT_DDL_T010",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"İthalat Mahsuplaştırma Hesapları"

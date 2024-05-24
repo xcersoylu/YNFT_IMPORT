@@ -1,4 +1,4 @@
-  method IF_HTTP_SERVICE_EXTENSION~HANDLE_REQUEST.
+  METHOD if_http_service_extension~handle_request.
     CONSTANTS lc_shipment TYPE ynft_t_t002-ddtyp VALUE '1'.
     DATA lv_deliverydocument TYPE i_deliverydocument-deliverydocument.
     DATA lv_deliverydocumentitem TYPE i_deliverydocumentitem-deliverydocumentitem.
@@ -16,6 +16,27 @@
              INTO DATA(lv_message).
       APPEND lv_message TO ms_response-messages.
     ELSE.
+
+      SELECT ship_quan~purchaseorder , ship_quan~purchaseorderitem,ship_quan~shipquantity
+        FROM @ms_request-item AS item INNER JOIN yi_nft_ddl_imp_po_list_base AS ship_quan
+                                      ON ship_quan~purchaseorder = item~purchaseorder
+                                     AND ship_quan~purchaseorderitem = item~purchaseorderitem
+        INTO TABLE @DATA(lt_shipquantity).
+      LOOP AT lt_shipquantity INTO DATA(ls_shipquantity).
+        IF ls_shipquantity-shipquantity < VALUE #( ms_request-item[ purchaseorder = ls_shipquantity-purchaseorder
+                                                                    purchaseorderitem = ls_shipquantity-purchaseorderitem ]-shipquantity OPTIONAL ).
+
+          CLEAR lv_message.
+          MESSAGE ID ycl_nft_imp_util_class=>mc_msgid
+                 TYPE 'E'
+                 NUMBER 021
+                 WITH ls_shipquantity-purchaseorder
+                      ls_shipquantity-purchaseorderitem
+                 INTO lv_message.
+          APPEND lv_message TO ms_response-messages.
+        ENDIF.
+      ENDLOOP.
+
       SELECT poitem~purchaseorder,
              poitem~purchaseorderitem,
              po~releaseisnotcompleted,
@@ -138,4 +159,4 @@
     response->set_text( lv_response_body ).
     response->set_header_field( i_name = mc_header_content i_value = mc_content_type ).
 
-  endmethod.
+  ENDMETHOD.

@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_T002",
     "STRUCOBJN":"YC_NFT_DDL_T002",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Delivery Document Type"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_T002",
+    "STRUCOBJN":"YC_NFT_DDL_T002",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Teslimat Belge Türü"

@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YI_NFT_DDL_T004",
     "STRUCOBJN":"YI_NFT_DDL_T004",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Cost Type"
+   },
+   {
+    "DDLNAME":"YI_NFT_DDL_T004",
+    "STRUCOBJN":"YI_NFT_DDL_T004",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Masraf Tipi"

@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_ZTERM",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Payment Terms",
+    "REPTEXT":"Payment Terms",
+    "SCRTEXT_S":"Pay.Terms",
+    "SCRTEXT_M":"Payment Terms",
+    "SCRTEXT_L":"Payment Terms"
+   },
+   {
+    "ROLLNAME":"YNFT_E_ZTERM",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

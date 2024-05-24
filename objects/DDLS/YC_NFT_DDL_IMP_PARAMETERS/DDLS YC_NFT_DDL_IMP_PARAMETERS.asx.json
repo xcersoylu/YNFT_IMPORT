@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_IMP_PARAMETERS",
     "STRUCOBJN":"YC_NFT_DDL_IMP_PARAMETERS",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parametric Values"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_IMP_PARAMETERS",
+    "STRUCOBJN":"YC_NFT_DDL_IMP_PARAMETERS",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"İthalat Parametrik Değerler"

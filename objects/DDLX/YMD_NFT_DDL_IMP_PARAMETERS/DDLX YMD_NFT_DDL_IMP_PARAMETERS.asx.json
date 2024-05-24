@@ -232,6 +232,34 @@
   [
    {
     "DDLXNAME":"YMD_NFT_DDL_IMP_PARAMETERS",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Parameter Table"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_IMP_PARAMETERS",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Parameter Table"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_IMP_PARAMETERS",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Parameter Table"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_IMP_PARAMETERS",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"PARAMETERNAME",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Parameter Table"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_IMP_PARAMETERS",
     "DDLANGUAGE":"T",
     "ELEMENT":"",
     "NAME":"UI.HEADERINFO.TITLE.LABEL",

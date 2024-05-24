@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_T011",
     "STRUCOBJN":"YC_NFT_DDL_T011",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Clear Import Balance Parameters"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_T011",
+    "STRUCOBJN":"YC_NFT_DDL_T011",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Dosya Kapama Parametreleri"

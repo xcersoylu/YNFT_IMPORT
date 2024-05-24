@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_KALSM_D",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Schema",
+    "REPTEXT":"Schema",
+    "SCRTEXT_S":"Schema",
+    "SCRTEXT_M":"Schema",
+    "SCRTEXT_L":"Schema"
+   },
+   {
+    "ROLLNAME":"YNFT_E_KALSM_D",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

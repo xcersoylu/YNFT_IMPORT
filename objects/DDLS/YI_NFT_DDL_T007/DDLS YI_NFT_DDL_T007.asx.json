@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YI_NFT_DDL_T007",
     "STRUCOBJN":"YI_NFT_DDL_T007",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Company Code Parameters"
+   },
+   {
+    "DDLNAME":"YI_NFT_DDL_T007",
+    "STRUCOBJN":"YI_NFT_DDL_T007",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Şirket Kodu Parametreleri"

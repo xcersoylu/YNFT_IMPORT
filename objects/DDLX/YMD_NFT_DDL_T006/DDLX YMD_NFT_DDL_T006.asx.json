@@ -211,6 +211,34 @@
   [
    {
     "DDLXNAME":"YMD_NFT_DDL_T006",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Cost Document Types"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T006",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Cost Document Types"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T006",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Cost Document Types"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T006",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"VORGANG",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Cost Document Types"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_T006",
     "DDLANGUAGE":"T",
     "ELEMENT":"",
     "NAME":"UI.HEADERINFO.TITLE.LABEL",

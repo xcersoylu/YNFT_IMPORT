@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_ZFBDT",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Base Date",
+    "REPTEXT":"Base Date",
+    "SCRTEXT_S":"Base Date",
+    "SCRTEXT_M":"Base Date",
+    "SCRTEXT_L":"Base Date"
+   },
+   {
+    "ROLLNAME":"YNFT_E_ZFBDT",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

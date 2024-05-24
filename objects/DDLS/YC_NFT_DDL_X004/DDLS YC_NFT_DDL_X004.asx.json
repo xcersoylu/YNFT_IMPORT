@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_X004",
     "STRUCOBJN":"YC_NFT_DDL_X004",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Cost Type Text"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_X004",
+    "STRUCOBJN":"YC_NFT_DDL_X004",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Masraf Tipi Metin"

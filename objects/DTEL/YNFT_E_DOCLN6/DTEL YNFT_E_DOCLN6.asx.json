@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_DOCLN6",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Item No",
+    "REPTEXT":"Item No",
+    "SCRTEXT_S":"Item No",
+    "SCRTEXT_M":"Item No",
+    "SCRTEXT_L":"Item No"
+   },
+   {
+    "ROLLNAME":"YNFT_E_DOCLN6",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

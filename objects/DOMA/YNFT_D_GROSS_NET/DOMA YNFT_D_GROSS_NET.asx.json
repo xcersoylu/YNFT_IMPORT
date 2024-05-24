@@ -80,6 +80,28 @@
   [
    {
     "DOMNAME":"YNFT_D_GROSS_NET",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Gross",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"G"
+   },
+   {
+    "DOMNAME":"YNFT_D_GROSS_NET",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Net",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"N"
+   },
+   {
+    "DOMNAME":"YNFT_D_GROSS_NET",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "VALPOS":1,

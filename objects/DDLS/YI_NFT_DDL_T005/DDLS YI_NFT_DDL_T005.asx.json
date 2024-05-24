@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YI_NFT_DDL_T005",
     "STRUCOBJN":"YI_NFT_DDL_T005",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Cost Source - Type"
+   },
+   {
+    "DDLNAME":"YI_NFT_DDL_T005",
+    "STRUCOBJN":"YI_NFT_DDL_T005",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Masraf Kaynağı ve Tipi Eşleştirme"

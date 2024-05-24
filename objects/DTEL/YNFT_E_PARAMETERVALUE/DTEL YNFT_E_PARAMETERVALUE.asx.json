@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_PARAMETERVALUE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Value",
+    "REPTEXT":"Value",
+    "SCRTEXT_S":"Value",
+    "SCRTEXT_M":"Value",
+    "SCRTEXT_L":"Value"
+   },
+   {
+    "ROLLNAME":"YNFT_E_PARAMETERVALUE",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

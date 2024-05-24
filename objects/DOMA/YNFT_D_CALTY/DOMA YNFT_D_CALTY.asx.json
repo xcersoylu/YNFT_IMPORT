@@ -89,6 +89,39 @@
   [
    {
     "DOMNAME":"YNFT_D_CALTY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Based on quantity PO",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"01"
+   },
+   {
+    "DOMNAME":"YNFT_D_CALTY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Based on quantity Shipment",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"02"
+   },
+   {
+    "DOMNAME":"YNFT_D_CALTY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":3,
+    "AS4VERS":0,
+    "DDTEXT":"Equal distribution",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"03"
+   },
+   {
+    "DOMNAME":"YNFT_D_CALTY",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "VALPOS":1,

@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_ZUONR",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Assignment Number",
+    "REPTEXT":"Assignment Number",
+    "SCRTEXT_S":"Assig.No",
+    "SCRTEXT_M":"Assignment Number",
+    "SCRTEXT_L":"Assignment Number"
+   },
+   {
+    "ROLLNAME":"YNFT_E_ZUONR",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

@@ -308,6 +308,42 @@
     "DOKLRELES":"",
     "DOKLDATE":"0000-00-00",
     "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"YNFT_IMP_MC021",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"SAP_CUSTOMER",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"SAP_CUSTOMER",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"YNFT_IMP_MC022",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"SAP_CUSTOMER",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"SAP_CUSTOMER",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
    }
   ]
  },
@@ -501,6 +537,28 @@
     "TXTLINES":0,
     "DOKSTATE":"N",
     "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"YNFT_IMP_MC021",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"YNFT_IMP_MC022",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
    }
   ]
  },
@@ -508,6 +566,114 @@
   "table":"T100",
   "data":
   [
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"000",
+    "TEXT":"&1&2&3&4"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"001",
+    "TEXT":"&1 delivery created."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"003",
+    "TEXT":"&1 saved."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"006",
+    "TEXT":"No data found."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"007",
+    "TEXT":"Document type error."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"008",
+    "TEXT":"There are documents that have previously recorded the cost of goods."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"009",
+    "TEXT":"Incorrect document."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"010",
+    "TEXT":"&1 is not approved."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"011",
+    "TEXT":"&1-&2 has deletion flag."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"012",
+    "TEXT":"&1 is not completed."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"013",
+    "TEXT":"&1-&2 has last delivery indicator"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"014",
+    "TEXT":"&1-&2 has invoice control indicator."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"015",
+    "TEXT":"Confirmation control key error (&1-&2)"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"016",
+    "TEXT":"&1 is created."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"017",
+    "TEXT":"There are rows with no shipment quantity entered."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"019",
+    "TEXT":"&1 clearence document is created."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"020",
+    "TEXT":"&1 clearence document amount is not updated.Plase check it."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"021",
+    "TEXT":"You exceeded the balance for SAS no &1-&2"
+   },
    {
     "SPRSL":"T",
     "ARBGB":"YNFT_IMP_MC",
@@ -609,6 +775,18 @@
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"020",
     "TEXT":"&1 nolu çekme belgesinin miktarı güncellenemedi kontrol ediniz."
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"021",
+    "TEXT":"&1-&2 numaralı SAS için bakiyeyi aştınız."
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"022",
+    "TEXT":"Çekme miktarı girilmemiş satırlar mevcut."
    }
   ]
  },
@@ -647,119 +825,133 @@
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"000",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"001",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"003",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"006",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"007",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"008",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"009",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"010",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"011",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"012",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"013",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"014",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"015",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"016",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"017",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"019",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    },
    {
     "ARBGB":"YNFT_IMP_MC",
     "MSGNR":"020",
     "NAME":"SAP_CUSTOMER",
-    "DATUM":"2024-05-22",
+    "DATUM":"2024-05-24",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"021",
+    "NAME":"SAP_CUSTOMER",
+    "DATUM":"2024-05-24",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"YNFT_IMP_MC",
+    "MSGNR":"022",
+    "NAME":"SAP_CUSTOMER",
+    "DATUM":"2024-05-24",
     "SELFDEF":"3"
    }
   ]

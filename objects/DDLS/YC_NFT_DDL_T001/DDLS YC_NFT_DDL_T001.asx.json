@@ -26,6 +26,13 @@
    {
     "DDLNAME":"YC_NFT_DDL_T001",
     "STRUCOBJN":"YC_NFT_DDL_T001",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Purchasing Document Type"
+   },
+   {
+    "DDLNAME":"YC_NFT_DDL_T001",
+    "STRUCOBJN":"YC_NFT_DDL_T001",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "DDTEXT":"Satınalma Belge Türü"

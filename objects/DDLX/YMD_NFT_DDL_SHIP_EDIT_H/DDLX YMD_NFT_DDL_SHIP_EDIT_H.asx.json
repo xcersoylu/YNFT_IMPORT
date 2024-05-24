@@ -267,6 +267,41 @@
   [
    {
     "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Shipment Edit Screen"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Shipment Edit Screen"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Shipment Edit Screen"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"COMPANYCODE",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Header"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
+    "DDLANGUAGE":"E",
+    "ELEMENT":"COMPANYCODE",
+    "NAME":"UI.FACET$2$.LABEL",
+    "TEXT":"Item"
+   },
+   {
+    "DDLXNAME":"YMD_NFT_DDL_SHIP_EDIT_H",
     "DDLANGUAGE":"T",
     "ELEMENT":"",
     "NAME":"UI.HEADERINFO.TITLE.LABEL",

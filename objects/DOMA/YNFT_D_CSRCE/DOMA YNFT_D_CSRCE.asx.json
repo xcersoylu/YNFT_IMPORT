@@ -89,6 +89,39 @@
   [
    {
     "DOMNAME":"YNFT_D_CSRCE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Cost of Goods Invoice",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"1"
+   },
+   {
+    "DOMNAME":"YNFT_D_CSRCE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Shipment Costs",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"2"
+   },
+   {
+    "DOMNAME":"YNFT_D_CSRCE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "VALPOS":3,
+    "AS4VERS":0,
+    "DDTEXT":"Customs Clearance Costs",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"3"
+   },
+   {
+    "DOMNAME":"YNFT_D_CSRCE",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "VALPOS":1,

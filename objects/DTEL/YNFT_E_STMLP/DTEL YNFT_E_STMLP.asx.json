@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_STMLP",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Incentive Item",
+    "REPTEXT":"Incentive Item",
+    "SCRTEXT_S":"Incen.Item",
+    "SCRTEXT_M":"Incentive Item",
+    "SCRTEXT_L":"Incentive Item"
+   },
+   {
+    "ROLLNAME":"YNFT_E_STMLP",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

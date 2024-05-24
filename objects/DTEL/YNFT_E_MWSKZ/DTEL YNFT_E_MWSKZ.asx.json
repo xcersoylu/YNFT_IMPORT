@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_MWSKZ",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Tax Indicator",
+    "REPTEXT":"Tax Indicator",
+    "SCRTEXT_S":"Tax Ind.",
+    "SCRTEXT_M":"Tax Indicator",
+    "SCRTEXT_L":"Tax Indicator"
+   },
+   {
+    "ROLLNAME":"YNFT_E_MWSKZ",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,

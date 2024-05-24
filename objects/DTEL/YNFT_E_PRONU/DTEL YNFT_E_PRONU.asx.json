@@ -52,6 +52,17 @@
   [
    {
     "ROLLNAME":"YNFT_E_PRONU",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Invoice Number",
+    "REPTEXT":"Invoice Number",
+    "SCRTEXT_S":"Inv. Numbe",
+    "SCRTEXT_M":"Invoice Number",
+    "SCRTEXT_L":"Invoice Number"
+   },
+   {
+    "ROLLNAME":"YNFT_E_PRONU",
     "DDLANGUAGE":"T",
     "AS4LOCAL":"N",
     "AS4VERS":0,
