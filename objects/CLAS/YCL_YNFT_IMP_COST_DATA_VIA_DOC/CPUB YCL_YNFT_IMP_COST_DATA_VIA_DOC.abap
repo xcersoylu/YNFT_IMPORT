@@ -1,7 +1,5 @@
-class YCL_YNFT_IMP_COST_DATA_VIA_DOC definition
-  public
-  create public .
-
-public section.
-
-  interfaces IF_HTTP_SERVICE_EXTENSION .
+CLASS ycl_ynft_imp_cost_data_via_doc DEFINITION
+  PUBLIC
+  CREATE PUBLIC.
+  PUBLIC SECTION.
+    INTERFACES if_http_service_extension .
