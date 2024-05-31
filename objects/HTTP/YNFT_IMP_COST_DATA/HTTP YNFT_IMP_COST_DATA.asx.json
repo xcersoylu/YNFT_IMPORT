@@ -30,6 +30,18 @@
   ]
  },
  {
+  "table":"UCONHTTPSERVHAND",
+  "data":
+  [
+   {
+    "ID":"YNFT_IMP_COST_DATA",
+    "VERSION":"A",
+    "SERVICEORDER":1,
+    "SERVICEHANDLER":"YCL_YNFT_IMP_COST_DATA"
+   }
+  ]
+ },
+ {
   "table":"UCONHTTPSERVHEAD",
   "data":
   [
@@ -40,8 +52,8 @@
     "CREATEDON":"2024-05-21",
     "CREATEDAT":"16:54:27",
     "CHANGEDBY":"SAP_CUSTOMER",
-    "CHANGEDON":"2024-05-21",
-    "CHANGEDAT":"16:54:27",
+    "CHANGEDON":"2024-05-31",
+    "CHANGEDAT":"09:12:03",
     "CREATED_BY_OBJ_PGMID":"",
     "CREATED_BY_OBJ_TYPE":"",
     "CREATED_BY_OBJ_NAME":"",
@@ -53,6 +65,18 @@
     "ICFPARGUID":"",
     "ABAP_LANGUAGE_VERSION":"5",
     "XPRA_UPDATE":""
+   }
+  ]
+ },
+ {
+  "table":"UCONHTTPSERVTEXT",
+  "data":
+  [
+   {
+    "ID":"YNFT_IMP_COST_DATA",
+    "VERSION":"A",
+    "LANG":"T",
+    "SHORTTEXT":"Masraf Ekranı Verileri"
    }
   ]
  }
