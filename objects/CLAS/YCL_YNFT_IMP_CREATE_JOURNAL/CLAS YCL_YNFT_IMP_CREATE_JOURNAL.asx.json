@@ -518,6 +518,7 @@
    },
    {
     "NAME":"YCL_YNFT_IMP_CREATE_JOURNAL===CO",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
@@ -529,6 +530,7 @@
    {
     "NAME":"YCL_YNFT_IMP_CREATE_JOURNAL===CP",
     "EDTX":"X",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
@@ -549,6 +551,7 @@
    },
    {
     "NAME":"YCL_YNFT_IMP_CREATE_JOURNAL===CU",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
